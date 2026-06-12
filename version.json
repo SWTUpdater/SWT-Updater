@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "downloadUrl": "https://github.com/SWTUpdater/SWT-Updater/releases/download/v1.0.0/SatansWeaponTools.zip",  
-  "notes": "Initial release"
+  "downloadUrl": "https://github.com/SWTUpdater/SWT-Updater/releases/download/v1.0.1/SatansWeaponTools.zip",
+  "notes": "New Features:\n• Smart Balance Analysis\n• Detailed Weapon Stat Explanations\n• Positive Balance Feedback\n\nImprovements:\n• Better weaponcomponents.meta handling\n• Improved save reliability\n• Improved XML preservation\n• Cleaner editor UI\n\nFixes:\n• Fixed unnecessary backups\n• Fixed unnecessary file saves\n• Fixed XML spacing issues\n• Fixed dirty file tracking"
 }
