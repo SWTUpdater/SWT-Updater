@@ -1,5 +1,5 @@
   {
-  "version": "1.5.5",    
+  "version": "1.6.0",    
   "downloadUrl": "https://github.com/SWTUpdater/SWT-Updater/releases/download/1.6.0/SatansWeaponTools.zip",
   "notes": "New Features\n\n• Added Inventory Generator\n• Generate QBCore shared/items.lua entries\n• Generate OX Inventory weapon entries\n• Generate ESX Config.Weapons entries\n• Generate ESX SQL item entries\n• Generate AddTextEntry and weapon testing snippets\n• Supports single weapon folders and full weapon packs\n• One-click code copying to clipboard\n• Automatic weapon scanning from weapons.meta\n• Automatic inventory image detection\n• Automatic weapon label detection from AddTextEntry entries\n\nImprovements\n\n• Improved weapon metadata scanning\n• Improved inventory generation accuracy\n• Improved framework compatibility\n• Cleaner generated weapon labels\n• Improved folder and pack detection\n• Enhanced code generation workflow\n\nFixes\n\n• Fixed weapon detection edge cases\n• Fixed malformed weapons.meta parsing issues\n• Fixed inventory image handling when no PNG exists\n• Fixed label generation producing incorrect weapon names\n• Fixed framework generation inconsistencies\n• General bug fixes and stability improvements"
 }
