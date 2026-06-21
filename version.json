@@ -1,5 +1,5 @@
 {
-"version": "2.0.0",
+"version": "2.1.0",
 "downloadUrl": "https://github.com/SWTUpdater/SWT-Updater/releases/download/2.1.0/SWT.zip",
  "notes": "Improvements\n\n• Rebuilt the Weapon Creator template system\n• Added full support for loading weapon and component data directly from template files\n• Improved Rockstar XML formatting parity\n• Component LOD now defaults to 300 while weapons remain at 500\n\nFixes\n\n• Fixed template values not matching selected weapons\n• Fixed melee weapon audio handling and <Audio /> preservation\n• Fixed component metadata loading issues\n• Fixed hardcoded fallback values and export inconsistencies"
 }
